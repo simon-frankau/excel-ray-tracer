@@ -1,5 +1,8 @@
 # Excel-based simple ray tracer
 
+![A picture of a chrome sphere, rendered by dithering the colour of
+cells in Excel.](./tracer.png)
+
 I wrote this back in late 2004 or so, when I was doing a bunch of
 spreadsheet work. It's a simple (fixed scene) ray tracer, with those
 most traditional of items, a mirrored sphere and a checkerboard plane.
